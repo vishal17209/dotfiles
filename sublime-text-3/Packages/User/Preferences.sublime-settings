@@ -1,0 +1,11 @@
+{
+	"color_scheme": "Packages/Theme - Brogrammer/brogrammer.tmTheme",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Numix Dark.sublime-theme",
+	"auto_complete_commit_on_tab": true,
+	"font_face": "Courier New",
+    "font_size": 12,
+}
